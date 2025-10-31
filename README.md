@@ -1,4 +1,4 @@
-# 1. Android Phone Connectivity Solution
+# 1. Phone Connectivity Solution
 
 ## Initial Questions
 
